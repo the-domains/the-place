@@ -1,7 +1,7 @@
 name: The Place
 favicon: null
-layout_spectrum: 0.3525457801297307
-typography_spectrum: 0.1772853152360767
+layout_spectrum: 0.74508
+typography_spectrum: 0.26158
 title: The Place
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4738171366043389
-  lightness: 0.08770496444776654
-  saturation: 0.5328001067973673
-  rhythmicContrast: 0.7169161001220345
+    - '#ffffff'
+    - '#010000'
+    - '#4a4c50'
+    - '#83858a'
+    - '#ea5358'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
