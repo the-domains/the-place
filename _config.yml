@@ -2,6 +2,7 @@ name: The Place
 favicon: null
 layout_spectrum: 0.3525457801297307
 typography_spectrum: 0.1772853152360767
+title: The Place
 cta:
   domain: null
   bucket: null
