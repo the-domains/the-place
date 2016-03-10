@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Place]]></title>
         <description><![CDATA[The Place]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-place/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 10:11:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 10:29:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-place/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shit happens ]]></title>
+            <description><![CDATA[<article><h1>Shit happens </h1><p>Shit happens</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea132af86796ec2895fb7f892d44b44b4b287d2e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-place/shit-happens/index.html</link>
+            <guid isPermaLink="false">c0e54b2b-e52d-4d90-8059-da2c3ddcf9cd</guid>
+            <pubDate>Thu, 10 Mar 2016 10:29:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f50e1df3-1a34-47e6-ab92-1d1cbfc55fc8.png">]]></description>
-            <link>undefinedthis-is-my-first-post/index.html</link>
+            <link>https://thegrid.ai/the-place/this-is-my-first-post/index.html</link>
             <guid isPermaLink="false">c24d9773-1d30-48fd-956b-aed14b6a529e</guid>
             <pubDate>Thu, 10 Mar 2016 10:11:32 GMT</pubDate>
         </item>
