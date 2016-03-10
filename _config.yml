@@ -1,7 +1,7 @@
 name: The Place
 favicon: null
-layout_spectrum: 0.74508
-typography_spectrum: 0.26158
+layout_spectrum: 1
+typography_spectrum: 0.50481
 title: The Place
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#4a4c50'
     - '#83858a'
     - '#ea5358'
-  brandStrength: 1
-  lightness: 0.5
+  brandStrength: 0
+  lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
