@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Place]]></title>
+        <description><![CDATA[The Place]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 12:43:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Captain America: Civil War Final Trailer Breakdown - Spider-Man Revealed!]]></title>
+            <description><![CDATA[<article><h1>Captain America: Civil War Final Trailer Breakdown - Spider-Man Revealed!</h1><p>Sign up for ScreenJunkies Plus Now! ►► http://www.screenjunkies.com/plus We break down the FINAL Captain America: Civil War Trailer, Spoilers included! With Knocking Dead's Hector Navarro, Coy Jandreau from Marvel Movie News, and Matt Key from Fatman on Batman. Check out our Idiot's Guide to House Of Cards for your Season 4 binge guide!</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wmCnXGaPAL8</link>
+            <guid isPermaLink="false">8c3293ff-6f4a-4b54-a57d-7befdc7c6c51</guid>
+            <pubDate>Sat, 12 Mar 2016 12:41:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
