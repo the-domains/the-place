@@ -4,11 +4,18 @@
         <description><![CDATA[The Place]]></description>
         <link>https://thegrid.ai/the-place/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 09:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 23:41:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-place/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[AMD Reveals Its External GPU Solution: AMD XConnect]]></title>
+            <description><![CDATA[<article><h1>AMD Reveals Its External GPU Solution: AMD XConnect</h1><p>As teased a few days ago, AMD revealed AMD XConnect technology which allows gamers to play graphically intensive games by connecting a powerful external GPU with a lightweight laptop through Thunderbolt 3. Traditionally, PC gamers have been faced with the problem of choosing between gaming notebooks, sacrificing portability for gaming performance, or ultrathin notebooks, sacrificing gaming performance for portability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2e829a5612444b4e0308d5ea39add76973eeb1d.jpg"></article>]]></description>
+            <link>http://megagames.com/news/amd-reveals-its-external-gpu-solution-amd-xconnect</link>
+            <guid isPermaLink="false">15549d54-282b-4113-bc80-53bc568a313e</guid>
+            <pubDate>Sun, 13 Mar 2016 23:41:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This is food]]></title>
-            <description><![CDATA[<article><h1>This is food</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5802dd-5a3e-41cb-90ce-2ac4c79f6c10.png"></article>]]></description>
+            <description><![CDATA[<article><h1>This is food</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1997361edfe59cb421559ba1c3981a1da9a00977.png"></article>]]></description>
             <link>https://thegrid.ai/the-place/this-is-food/index.html</link>
             <guid isPermaLink="false">ce976ddf-cc0b-45d1-ac0f-0f142f6117fc</guid>
             <pubDate>Sun, 13 Mar 2016 09:03:42 GMT</pubDate>
