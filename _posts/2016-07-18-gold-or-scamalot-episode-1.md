@@ -12,8 +12,8 @@ description: >-
   episodes every Friday: http://on.mash.to/subscribe More episodes:
   https://www.youtube.com/playlist?list=PLSKUhDnoJjYmeW6nNasZSaVAGh4u91pEk Based
   on the book "Dot Con" by James Veitch.
-datePublished: '2016-07-18T16:03:32.662Z'
-dateModified: '2016-07-18T16:03:28.529Z'
+datePublished: '2016-07-18T16:08:36.039Z'
+dateModified: '2016-07-18T16:03:38.797Z'
 author:
   - name: Mashable
     url: 'https://www.youtube.com/user/mashable'
