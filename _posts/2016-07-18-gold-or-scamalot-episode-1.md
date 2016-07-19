@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Mashable
-    url: 'https://www.youtube.com/user/mashable'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  https://www.youtube.com/watch?v=N682eopajzA&list=PLSKUhDnoJjYmeW6nNasZSaVAGh4u91pEk&index=6
+inLanguage: null
 keywords: []
 description: >-
   This British man's email exchange with a scammer escalated hilariously.
@@ -16,17 +12,23 @@ description: >-
   episodes every Friday: http://on.mash.to/subscribe More episodes:
   https://www.youtube.com/playlist?list=PLSKUhDnoJjYmeW6nNasZSaVAGh4u91pEk Based
   on the book "Dot Con" by James Veitch.
+datePublished: '2016-07-18T16:03:32.662Z'
+dateModified: '2016-07-18T16:03:28.529Z'
+author:
+  - name: Mashable
+    url: 'https://www.youtube.com/user/mashable'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: >-
-  https://www.youtube.com/watch?v=N682eopajzA&list=PLSKUhDnoJjYmeW6nNasZSaVAGh4u91pEk&index=6
 title: 'Gold | Scamalot Episode #1'
-datePublished: '2016-07-18T16:00:11.422Z'
-dateModified: '2016-07-18T15:58:54.943Z'
-starred: false
 sourcePath: _posts/2016-07-18-gold-or-scamalot-episode-1.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
